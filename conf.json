@@ -1,0 +1,14 @@
+{
+  "apiURL": "API_URL",
+  "api": {
+    "accession_number": "YOUR_ACCESSION_NUMBER",
+    "meaningful_date_string": "YOUR_MEANINGFUL_DATE"
+  },
+  "twilio": {
+    "account_sid": "YOUR_SID",
+    "auth_token": "YOUR_TOKEN",
+    "from_number": "+11111111111",
+    "to_number": "+11111111111"
+  },
+  "frequency": 1200
+}
