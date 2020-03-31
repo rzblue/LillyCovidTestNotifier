@@ -1,3 +1,4 @@
+require('log-timestamp');
 const axios = require('axios');
 let conf = require('./conf.json');
 var twilio = require('twilio');
