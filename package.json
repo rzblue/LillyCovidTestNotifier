@@ -9,7 +9,7 @@
   "author": "Ryan Blue",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "log-timestamp": "^0.3.0",
     "twilio": "^3.41.1"
   }
